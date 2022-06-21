@@ -93,7 +93,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>5.1.41</version>
+      <version>8.0.28</version>
     </dependency>
     <!-- 11. jstl 框架-->
     <!-- 用于标准 jsp 和 servlet 开发-->
@@ -194,7 +194,7 @@
             <dependency>
               <groupId>mysql</groupId>
               <artifactId>mysql-connector-java</artifactId>
-              <version>5.1.41</version>
+              <version>8.0.28</version>
             </dependency>
           </dependencies>
         </plugin>
